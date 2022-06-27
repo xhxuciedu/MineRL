@@ -9,3 +9,4 @@ References:
 * [Learning to Play Minecraft
 with Video PreTraining (VPT)](https://openai.com/blog/vpt/)
 * [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://github.com/openai/Video-Pre-Training)
+* [The MineRL Benchmark for Agents that Solve Almost-Lifelike Tasks (MineRL BASALT) competition](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition)
