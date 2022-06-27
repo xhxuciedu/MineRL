@@ -12,5 +12,11 @@ with Video PreTraining (VPT)](https://openai.com/blog/vpt/)
 * [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://github.com/openai/Video-Pre-Training)
 * [MineRL BASALT challenge, 2022](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition)
 * [MineRL Diamond challenge, 2021](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition)
+
+Related GitHub repositories:
+* [2021 NeurIPS Competition MineRL BASALT Challenge 1st place solution](https://github.com/viniciusguigo/kairos_minerl_basalt)
+* [3rd placed submission to the NeurIPS MineRL competition 2019](https://github.com/chscheller/minerl_agent)
+* [Code for playing the Minecraft using the Deep Learning](https://github.com/kimbring2/minecraft_ai)
+* [Apply Deep Q Learning algorithm](https://github.com/rishavb123/MineRL)
 * [Enjoy AI in Minecraft (Malmo and MineRL)](https://tsmatz.wordpress.com/2020/07/09/minerl-and-malmo-reinforcement-learning-in-minecraft/)
 * [Deep Reinforcement Learning : Apply Visual Attention in Minecraft](https://tsmatz.wordpress.com/2021/11/11/reinforcement-learning-visual-attention-in-minecraft/)
