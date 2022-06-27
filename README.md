@@ -5,6 +5,7 @@ Create a bot to play MineCraft
 References:
 * [Minecreft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki)
 * [Minecraft Beginners Guide - Part 1 - Tools, Weapons, Food and Surviving](https://www.youtube.com/watch?v=BEH_fMgRNrc)
+* [MineRL Labs](https://github.com/minerllabs)
 * [Create a Bot to Find Diamonds in Minecraft](https://mlabonne.github.io/blog/minecraft/)
 * [Learning to Play Minecraft
 with Video PreTraining (VPT)](https://openai.com/blog/vpt/)
