@@ -1,8 +1,8 @@
 # MineRL
 
-Create a bot to play MineCraft
+## Create a bot to play MineCraft
 
-References:
+## References:
 * [Minecreft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki)
 * [Minecraft Beginners Guide - Part 1 - Tools, Weapons, Food and Surviving](https://www.youtube.com/watch?v=BEH_fMgRNrc)
 * [MineRL Labs](https://github.com/minerllabs)
@@ -10,13 +10,13 @@ References:
 * [Learning to Play Minecraft
 with Video PreTraining (VPT)](https://openai.com/blog/vpt/)
 * [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://github.com/openai/Video-Pre-Training)
-..* [Explaination of the VPT paper](https://www.youtube.com/watch?v=oz5yZc9ULAc)
+** [Explaination of the VPT paper](https://www.youtube.com/watch?v=oz5yZc9ULAc)
 * [MineRL BASALT challenge, 2022](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition)
 * [MineRL Diamond challenge, 2021](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition)
 * [Minedojo](https://minedojo.org/)
 * [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853)
 
-Related GitHub repositories:
+## Related GitHub repositories:
 * [2021 NeurIPS Competition MineRL BASALT Challenge 1st place solution](https://github.com/viniciusguigo/kairos_minerl_basalt)
 * [3rd placed submission to the NeurIPS MineRL competition 2019](https://github.com/chscheller/minerl_agent)
 * [Code for playing the Minecraft using the Deep Learning](https://github.com/kimbring2/minecraft_ai)
