@@ -13,6 +13,7 @@ with Video PreTraining (VPT)](https://openai.com/blog/vpt/)
 * [MineRL BASALT challenge, 2022](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition)
 * [MineRL Diamond challenge, 2021](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition)
 * [Minedojo](https://minedojo.org/)
+* [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853)
 
 Related GitHub repositories:
 * [2021 NeurIPS Competition MineRL BASALT Challenge 1st place solution](https://github.com/viniciusguigo/kairos_minerl_basalt)
