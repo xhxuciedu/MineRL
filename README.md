@@ -12,6 +12,7 @@ with Video PreTraining (VPT)](https://openai.com/blog/vpt/)
 * [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://github.com/openai/Video-Pre-Training)
 * [MineRL BASALT challenge, 2022](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition)
 * [MineRL Diamond challenge, 2021](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition)
+* [Minedojo](https://minedojo.org/)
 
 Related GitHub repositories:
 * [2021 NeurIPS Competition MineRL BASALT Challenge 1st place solution](https://github.com/viniciusguigo/kairos_minerl_basalt)
