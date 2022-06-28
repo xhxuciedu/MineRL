@@ -10,7 +10,8 @@ References:
 * [Learning to Play Minecraft
 with Video PreTraining (VPT)](https://openai.com/blog/vpt/)
 * [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://github.com/openai/Video-Pre-Training)
--- [Explaination of the VPT paper](https://www.youtube.com/watch?v=oz5yZc9ULAc)
+** [Explaination of the VPT paper](https://www.youtube.com/watch?v=oz5yZc9ULAc)
+
 * [MineRL BASALT challenge, 2022](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition)
 * [MineRL Diamond challenge, 2021](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition)
 * [Minedojo](https://minedojo.org/)
