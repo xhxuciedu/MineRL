@@ -16,6 +16,7 @@
   with Video PreTraining (VPT)](https://openai.com/blog/vpt/)
   * [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://github.com/openai/Video-Pre-Training)
   * [Explaination of the VPT paper](https://www.youtube.com/watch?v=oz5yZc9ULAc)
+  * https://arxiv.org/abs/2206.11795
 * Minedojo
   * [Minedojo](https://minedojo.org/)
   * [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853)
