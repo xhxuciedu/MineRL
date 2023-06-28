@@ -21,6 +21,12 @@
   * [Minedojo](https://minedojo.org/)
   * [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853)
 
+* Voyager: An Open-Ended Embodied Agent with Large Language Models.
+  * https://voyager.minedojo.org
+  * Paper: https://arxiv.org/abs/2305.16291
+  * Code: https://github.com/MineDojo/Voyager
+
+
 ## Related GitHub repositories:
 * [2021 NeurIPS Competition MineRL BASALT Challenge 1st place solution](https://github.com/viniciusguigo/kairos_minerl_basalt)
 * [3rd placed submission to the NeurIPS MineRL competition 2019](https://github.com/chscheller/minerl_agent)
